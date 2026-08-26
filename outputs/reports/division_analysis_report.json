@@ -1,0 +1,150 @@
+{
+    "division_summary": [
+        {
+            "Division": "Chocolate",
+            "Total_Revenue": 77573.34,
+            "Total_Profit": 52353.28,
+            "Total_Cost": 25220.06,
+            "Total_Units": 21953,
+            "Total_Orders": 4862,
+            "Num_Products": 5,
+            "Avg_Margin": 67.49,
+            "Avg_Profit_per_Unit": 2.39,
+            "Profit_Efficiency": 0.6749,
+            "Revenue_Share_%": 92.54,
+            "Profit_Share_%": 94.69,
+            "Margin_Score": 10.0,
+            "Efficiency_Score": 9.8,
+            "Profit_Score": 10.0,
+            "Overall_Score": 9.93
+        },
+        {
+            "Division": "Other",
+            "Total_Revenue": 5906.25,
+            "Total_Profit": 2698.45,
+            "Total_Cost": 3207.8,
+            "Total_Units": 701,
+            "Total_Orders": 177,
+            "Num_Products": 3,
+            "Avg_Margin": 39.01,
+            "Avg_Profit_per_Unit": 3.71,
+            "Profit_Efficiency": 0.4569,
+            "Revenue_Share_%": 7.05,
+            "Profit_Share_%": 4.88,
+            "Margin_Score": 5.78,
+            "Efficiency_Score": 6.63,
+            "Profit_Score": 0.52,
+            "Overall_Score": 4.31
+        },
+        {
+            "Division": "Sugar",
+            "Total_Revenue": 347.84,
+            "Total_Profit": 239.64,
+            "Total_Cost": 108.2,
+            "Total_Units": 101,
+            "Total_Orders": 28,
+            "Num_Products": 7,
+            "Avg_Margin": 58.75,
+            "Avg_Profit_per_Unit": 2.15,
+            "Profit_Efficiency": 0.6889,
+            "Revenue_Share_%": 0.41,
+            "Profit_Share_%": 0.43,
+            "Margin_Score": 8.7,
+            "Efficiency_Score": 10.0,
+            "Profit_Score": 0.05,
+            "Overall_Score": 6.25
+        }
+    ],
+    "quarterly_by_division": [
+        {
+            "Division": "Chocolate",
+            "Quarter": 1,
+            "Total_Revenue": 10787.75,
+            "Total_Profit": 7285.15,
+            "Avg_Margin": 67.55
+        },
+        {
+            "Division": "Chocolate",
+            "Quarter": 2,
+            "Total_Revenue": 16648.8,
+            "Total_Profit": 11238.64,
+            "Avg_Margin": 67.48
+        },
+        {
+            "Division": "Chocolate",
+            "Quarter": 3,
+            "Total_Revenue": 21310.9,
+            "Total_Profit": 14375.06,
+            "Avg_Margin": 67.52
+        },
+        {
+            "Division": "Chocolate",
+            "Quarter": 4,
+            "Total_Revenue": 28825.89,
+            "Total_Profit": 19454.43,
+            "Avg_Margin": 67.46
+        },
+        {
+            "Division": "Other",
+            "Quarter": 1,
+            "Total_Revenue": 641.0,
+            "Total_Profit": 283.4,
+            "Avg_Margin": 44.22
+        },
+        {
+            "Division": "Other",
+            "Quarter": 2,
+            "Total_Revenue": 929.25,
+            "Total_Profit": 397.85,
+            "Avg_Margin": 32.2
+        },
+        {
+            "Division": "Other",
+            "Quarter": 3,
+            "Total_Revenue": 1898.0,
+            "Total_Profit": 869.6,
+            "Avg_Margin": 37.53
+        },
+        {
+            "Division": "Other",
+            "Quarter": 4,
+            "Total_Revenue": 2438.0,
+            "Total_Profit": 1147.6,
+            "Avg_Margin": 40.68
+        },
+        {
+            "Division": "Sugar",
+            "Quarter": 1,
+            "Total_Revenue": 37.24,
+            "Total_Profit": 26.19,
+            "Avg_Margin": 61.69
+        },
+        {
+            "Division": "Sugar",
+            "Quarter": 2,
+            "Total_Revenue": 115.0,
+            "Total_Profit": 82.6,
+            "Avg_Margin": 58.61
+        },
+        {
+            "Division": "Sugar",
+            "Quarter": 3,
+            "Total_Revenue": 46.47,
+            "Total_Profit": 32.62,
+            "Avg_Margin": 62.82
+        },
+        {
+            "Division": "Sugar",
+            "Quarter": 4,
+            "Total_Revenue": 149.13,
+            "Total_Profit": 98.23,
+            "Avg_Margin": 56.5
+        }
+    ],
+    "key_flags": {
+        "concentration_risk": "Chocolate division contributes over 92% of revenue and 95% of profit. Sugar division is effectively negligible at 0.3% revenue share. This is a structural risk \u2014 any disruption to Chocolate impacts the entire business.",
+        "most_efficient_division": "Chocolate",
+        "least_efficient_division": "Sugar",
+        "top_overall_score": "Chocolate"
+    }
+}

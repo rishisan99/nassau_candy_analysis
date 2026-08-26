@@ -1,0 +1,470 @@
+{
+    "thresholds": {
+        "sales_median": 328.75,
+        "margin_median": 62.31,
+        "note": "Median used over mean \u2014 more robust against revenue outliers"
+    },
+    "rankings": {
+        "by_total_profit": [
+            {
+                "Product Name": "Wonka Bar -Scrumdiddlyumptious",
+                "Division": "Chocolate",
+                "Total_Profit": 11350.0,
+                "Profit_Share_%": 20.53
+            },
+            {
+                "Product Name": "Wonka Bar - Triple Dazzle Caramel",
+                "Division": "Chocolate",
+                "Total_Profit": 10897.6,
+                "Profit_Share_%": 19.71
+            },
+            {
+                "Product Name": "Wonka Bar - Nutty Crunch Surprise",
+                "Division": "Chocolate",
+                "Total_Profit": 10311.09,
+                "Profit_Share_%": 18.65
+            },
+            {
+                "Product Name": "Wonka Bar - Milk Chocolate",
+                "Division": "Chocolate",
+                "Total_Profit": 10062.59,
+                "Profit_Share_%": 18.2
+            },
+            {
+                "Product Name": "Wonka Bar - Fudge Mallows",
+                "Division": "Chocolate",
+                "Total_Profit": 9732.0,
+                "Profit_Share_%": 17.6
+            },
+            {
+                "Product Name": "Lickable Wallpaper",
+                "Division": "Other",
+                "Total_Profit": 2480.0,
+                "Profit_Share_%": 4.49
+            },
+            {
+                "Product Name": "Wonka Gum",
+                "Division": "Other",
+                "Total_Profit": 170.95,
+                "Profit_Share_%": 0.31
+            },
+            {
+                "Product Name": "Everlasting Gobstopper",
+                "Division": "Sugar",
+                "Total_Profit": 104.0,
+                "Profit_Share_%": 0.19
+            },
+            {
+                "Product Name": "Hair Toffee",
+                "Division": "Sugar",
+                "Total_Profit": 59.5,
+                "Profit_Share_%": 0.11
+            },
+            {
+                "Product Name": "Kazookles",
+                "Division": "Other",
+                "Total_Profit": 47.5,
+                "Profit_Share_%": 0.09
+            },
+            {
+                "Product Name": "Fizzy Lifting Drinks",
+                "Division": "Sugar",
+                "Total_Profit": 27.0,
+                "Profit_Share_%": 0.05
+            },
+            {
+                "Product Name": "SweeTARTS",
+                "Division": "Sugar",
+                "Total_Profit": 21.7,
+                "Profit_Share_%": 0.04
+            },
+            {
+                "Product Name": "Laffy Taffy",
+                "Division": "Sugar",
+                "Total_Profit": 19.84,
+                "Profit_Share_%": 0.04
+            },
+            {
+                "Product Name": "Fun Dip",
+                "Division": "Sugar",
+                "Total_Profit": 4.8,
+                "Profit_Share_%": 0.01
+            },
+            {
+                "Product Name": "Nerds",
+                "Division": "Sugar",
+                "Total_Profit": 2.8,
+                "Profit_Share_%": 0.01
+            }
+        ],
+        "by_gross_margin": [
+            {
+                "Product Name": "Everlasting Gobstopper",
+                "Division": "Sugar",
+                "Avg_Margin": 80.0
+            },
+            {
+                "Product Name": "Hair Toffee",
+                "Division": "Sugar",
+                "Avg_Margin": 77.78
+            },
+            {
+                "Product Name": "Wonka Bar - Nutty Crunch Surprise",
+                "Division": "Chocolate",
+                "Avg_Margin": 71.35
+            },
+            {
+                "Product Name": "Wonka Bar -Scrumdiddlyumptious",
+                "Division": "Chocolate",
+                "Avg_Margin": 69.44
+            },
+            {
+                "Product Name": "Wonka Bar - Fudge Mallows",
+                "Division": "Chocolate",
+                "Avg_Margin": 66.67
+            },
+            {
+                "Product Name": "Wonka Bar - Triple Dazzle Caramel",
+                "Division": "Chocolate",
+                "Avg_Margin": 65.33
+            },
+            {
+                "Product Name": "Wonka Bar - Milk Chocolate",
+                "Division": "Chocolate",
+                "Avg_Margin": 64.92
+            },
+            {
+                "Product Name": "Laffy Taffy",
+                "Division": "Sugar",
+                "Avg_Margin": 62.31
+            },
+            {
+                "Product Name": "Fizzy Lifting Drinks",
+                "Division": "Sugar",
+                "Avg_Margin": 60.0
+            },
+            {
+                "Product Name": "Wonka Gum",
+                "Division": "Other",
+                "Avg_Margin": 52.0
+            },
+            {
+                "Product Name": "Lickable Wallpaper",
+                "Division": "Other",
+                "Avg_Margin": 50.0
+            },
+            {
+                "Product Name": "Nerds",
+                "Division": "Sugar",
+                "Avg_Margin": 46.67
+            },
+            {
+                "Product Name": "SweeTARTS",
+                "Division": "Sugar",
+                "Avg_Margin": 46.67
+            },
+            {
+                "Product Name": "Fun Dip",
+                "Division": "Sugar",
+                "Avg_Margin": 40.0
+            },
+            {
+                "Product Name": "Kazookles",
+                "Division": "Other",
+                "Avg_Margin": 7.69
+            }
+        ],
+        "by_profit_per_unit": [
+            {
+                "Product Name": "Lickable Wallpaper",
+                "Division": "Other",
+                "Avg_Profit_per_Unit": 10.0
+            },
+            {
+                "Product Name": "Everlasting Gobstopper",
+                "Division": "Sugar",
+                "Avg_Profit_per_Unit": 8.0
+            },
+            {
+                "Product Name": "Hair Toffee",
+                "Division": "Sugar",
+                "Avg_Profit_per_Unit": 3.5
+            },
+            {
+                "Product Name": "Wonka Bar -Scrumdiddlyumptious",
+                "Division": "Chocolate",
+                "Avg_Profit_per_Unit": 2.5
+            },
+            {
+                "Product Name": "Wonka Bar - Nutty Crunch Surprise",
+                "Division": "Chocolate",
+                "Avg_Profit_per_Unit": 2.49
+            },
+            {
+                "Product Name": "Wonka Bar - Triple Dazzle Caramel",
+                "Division": "Chocolate",
+                "Avg_Profit_per_Unit": 2.45
+            },
+            {
+                "Product Name": "Wonka Bar - Fudge Mallows",
+                "Division": "Chocolate",
+                "Avg_Profit_per_Unit": 2.4
+            },
+            {
+                "Product Name": "Fizzy Lifting Drinks",
+                "Division": "Sugar",
+                "Avg_Profit_per_Unit": 2.25
+            },
+            {
+                "Product Name": "Wonka Bar - Milk Chocolate",
+                "Division": "Chocolate",
+                "Avg_Profit_per_Unit": 2.11
+            },
+            {
+                "Product Name": "Laffy Taffy",
+                "Division": "Sugar",
+                "Avg_Profit_per_Unit": 1.24
+            },
+            {
+                "Product Name": "Nerds",
+                "Division": "Sugar",
+                "Avg_Profit_per_Unit": 0.7
+            },
+            {
+                "Product Name": "SweeTARTS",
+                "Division": "Sugar",
+                "Avg_Profit_per_Unit": 0.7
+            },
+            {
+                "Product Name": "Wonka Gum",
+                "Division": "Other",
+                "Avg_Profit_per_Unit": 0.65
+            },
+            {
+                "Product Name": "Fun Dip",
+                "Division": "Sugar",
+                "Avg_Profit_per_Unit": 0.6
+            },
+            {
+                "Product Name": "Kazookles",
+                "Division": "Other",
+                "Avg_Profit_per_Unit": 0.25
+            }
+        ]
+    },
+    "quadrant_classification": [
+        {
+            "Product Name": "Everlasting Gobstopper",
+            "Division": "Sugar",
+            "Factory": "Secret Factory",
+            "Total_Revenue": 130.0,
+            "Total_Profit": 104.0,
+            "Avg_Margin": 80.0,
+            "Profit_Share_%": 0.19,
+            "Quadrant": "HIDDEN GEM"
+        },
+        {
+            "Product Name": "Fizzy Lifting Drinks",
+            "Division": "Sugar",
+            "Factory": "Sugar Shack",
+            "Total_Revenue": 45.0,
+            "Total_Profit": 27.0,
+            "Avg_Margin": 60.0,
+            "Profit_Share_%": 0.05,
+            "Quadrant": "DEAD WEIGHT"
+        },
+        {
+            "Product Name": "Fun Dip",
+            "Division": "Sugar",
+            "Factory": "Sugar Shack",
+            "Total_Revenue": 12.0,
+            "Total_Profit": 4.8,
+            "Avg_Margin": 40.0,
+            "Profit_Share_%": 0.01,
+            "Quadrant": "DEAD WEIGHT"
+        },
+        {
+            "Product Name": "Hair Toffee",
+            "Division": "Sugar",
+            "Factory": "The Other Factory",
+            "Total_Revenue": 76.5,
+            "Total_Profit": 59.5,
+            "Avg_Margin": 77.78,
+            "Profit_Share_%": 0.11,
+            "Quadrant": "HIDDEN GEM"
+        },
+        {
+            "Product Name": "Kazookles",
+            "Division": "Other",
+            "Factory": "The Other Factory",
+            "Total_Revenue": 617.5,
+            "Total_Profit": 47.5,
+            "Avg_Margin": 7.69,
+            "Profit_Share_%": 0.09,
+            "Quadrant": "VOLUME TRAP"
+        },
+        {
+            "Product Name": "Laffy Taffy",
+            "Division": "Sugar",
+            "Factory": "Sugar Shack",
+            "Total_Revenue": 31.84,
+            "Total_Profit": 19.84,
+            "Avg_Margin": 62.31,
+            "Profit_Share_%": 0.04,
+            "Quadrant": "HIDDEN GEM"
+        },
+        {
+            "Product Name": "Lickable Wallpaper",
+            "Division": "Other",
+            "Factory": "Secret Factory",
+            "Total_Revenue": 4960.0,
+            "Total_Profit": 2480.0,
+            "Avg_Margin": 50.0,
+            "Profit_Share_%": 4.49,
+            "Quadrant": "VOLUME TRAP"
+        },
+        {
+            "Product Name": "Nerds",
+            "Division": "Sugar",
+            "Factory": "Sugar Shack",
+            "Total_Revenue": 6.0,
+            "Total_Profit": 2.8,
+            "Avg_Margin": 46.67,
+            "Profit_Share_%": 0.01,
+            "Quadrant": "DEAD WEIGHT"
+        },
+        {
+            "Product Name": "SweeTARTS",
+            "Division": "Sugar",
+            "Factory": "Sugar Shack",
+            "Total_Revenue": 46.5,
+            "Total_Profit": 21.7,
+            "Avg_Margin": 46.67,
+            "Profit_Share_%": 0.04,
+            "Quadrant": "DEAD WEIGHT"
+        },
+        {
+            "Product Name": "Wonka Bar - Fudge Mallows",
+            "Division": "Chocolate",
+            "Factory": "Lot's O' Nuts",
+            "Total_Revenue": 14598.0,
+            "Total_Profit": 9732.0,
+            "Avg_Margin": 66.67,
+            "Profit_Share_%": 17.6,
+            "Quadrant": "STAR"
+        },
+        {
+            "Product Name": "Wonka Bar - Milk Chocolate",
+            "Division": "Chocolate",
+            "Factory": "Wicked Choccy's",
+            "Total_Revenue": 15499.25,
+            "Total_Profit": 10062.59,
+            "Avg_Margin": 64.92,
+            "Profit_Share_%": 18.2,
+            "Quadrant": "STAR"
+        },
+        {
+            "Product Name": "Wonka Bar - Nutty Crunch Surprise",
+            "Division": "Chocolate",
+            "Factory": "Lot's O' Nuts",
+            "Total_Revenue": 14452.09,
+            "Total_Profit": 10311.09,
+            "Avg_Margin": 71.35,
+            "Profit_Share_%": 18.65,
+            "Quadrant": "STAR"
+        },
+        {
+            "Product Name": "Wonka Bar - Triple Dazzle Caramel",
+            "Division": "Chocolate",
+            "Factory": "Wicked Choccy's",
+            "Total_Revenue": 16680.0,
+            "Total_Profit": 10897.6,
+            "Avg_Margin": 65.33,
+            "Profit_Share_%": 19.71,
+            "Quadrant": "STAR"
+        },
+        {
+            "Product Name": "Wonka Bar -Scrumdiddlyumptious",
+            "Division": "Chocolate",
+            "Factory": "Lot's O' Nuts",
+            "Total_Revenue": 16344.0,
+            "Total_Profit": 11350.0,
+            "Avg_Margin": 69.44,
+            "Profit_Share_%": 20.53,
+            "Quadrant": "STAR"
+        },
+        {
+            "Product Name": "Wonka Gum",
+            "Division": "Other",
+            "Factory": "Secret Factory",
+            "Total_Revenue": 328.75,
+            "Total_Profit": 170.95,
+            "Avg_Margin": 52.0,
+            "Profit_Share_%": 0.31,
+            "Quadrant": "VOLUME TRAP"
+        }
+    ],
+    "quadrant_summary": [
+        {
+            "Quadrant": "DEAD WEIGHT",
+            "Num_Products": 4,
+            "Total_Revenue": 109.5,
+            "Total_Profit": 56.3,
+            "Avg_Margin": 48.34,
+            "Revenue_Share_%": 0.13,
+            "Profit_Share_%": 0.1
+        },
+        {
+            "Quadrant": "HIDDEN GEM",
+            "Num_Products": 3,
+            "Total_Revenue": 238.34,
+            "Total_Profit": 183.34,
+            "Avg_Margin": 73.36,
+            "Revenue_Share_%": 0.28,
+            "Profit_Share_%": 0.33
+        },
+        {
+            "Quadrant": "STAR",
+            "Num_Products": 5,
+            "Total_Revenue": 77573.34,
+            "Total_Profit": 52353.28,
+            "Avg_Margin": 67.54,
+            "Revenue_Share_%": 92.54,
+            "Profit_Share_%": 94.69
+        },
+        {
+            "Quadrant": "VOLUME TRAP",
+            "Num_Products": 3,
+            "Total_Revenue": 5906.25,
+            "Total_Profit": 2698.45,
+            "Avg_Margin": 36.56,
+            "Revenue_Share_%": 7.05,
+            "Profit_Share_%": 4.88
+        }
+    ],
+    "key_observations": {
+        "stars": [
+            "Wonka Bar - Fudge Mallows",
+            "Wonka Bar - Milk Chocolate",
+            "Wonka Bar - Nutty Crunch Surprise",
+            "Wonka Bar - Triple Dazzle Caramel",
+            "Wonka Bar -Scrumdiddlyumptious"
+        ],
+        "hidden_gems": [
+            "Everlasting Gobstopper",
+            "Hair Toffee",
+            "Laffy Taffy"
+        ],
+        "volume_traps": [
+            "Kazookles",
+            "Lickable Wallpaper",
+            "Wonka Gum"
+        ],
+        "dead_weight": [
+            "Fizzy Lifting Drinks",
+            "Fun Dip",
+            "Nerds",
+            "SweeTARTS"
+        ]
+    }
+}

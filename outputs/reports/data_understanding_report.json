@@ -1,0 +1,101 @@
+{
+    "dataset_overview": {
+        "total_rows": 10194,
+        "total_columns": 18,
+        "total_orders": 8549,
+        "total_products": 15,
+        "total_divisions": 3,
+        "total_regions": 4,
+        "date_range": {
+            "order_start": "2024-01-02",
+            "order_end": "2025-12-31",
+            "ship_start": "2026-06-30",
+            "ship_end": "2030-06-28"
+        }
+    },
+    "data_quality": {
+        "null_values": 0,
+        "duplicate_rows": 0,
+        "profit_integrity_check": "PASSED \u2014 Sales - Cost = Gross Profit on all rows",
+        "ship_date_anomaly": "FLAGGED \u2014 Ship dates range from 2026 to 2030, postdating every order. Ship date column is unreliable and will be excluded from time-based analysis.",
+        "multi_year_order_data": "FLAGGED \u2014 Order Date spans 2024-01-02 to 2025-12-31, covering both 2024 and 2025. Analysis scope is restricted to FY2025 only during cleaning (notebook 02)."
+    },
+    "unique_values": {
+        "divisions": [
+            "Chocolate",
+            "Other",
+            "Sugar"
+        ],
+        "products": [
+            "Wonka Bar - Milk Chocolate",
+            "Wonka Bar - Triple Dazzle Caramel",
+            "Wonka Bar - Nutty Crunch Surprise",
+            "Wonka Bar -Scrumdiddlyumptious",
+            "Wonka Bar - Fudge Mallows",
+            "Wonka Gum",
+            "Kazookles",
+            "Lickable Wallpaper",
+            "Fizzy Lifting Drinks",
+            "Laffy Taffy",
+            "SweeTARTS",
+            "Nerds",
+            "Hair Toffee",
+            "Everlasting Gobstopper",
+            "Fun Dip"
+        ],
+        "regions": [
+            "Interior",
+            "Atlantic",
+            "Gulf",
+            "Pacific"
+        ],
+        "ship_modes": [
+            "Standard Class",
+            "First Class",
+            "Second Class",
+            "Same Day"
+        ]
+    },
+    "basic_statistics": {
+        "sales": {
+            "count": 10194.0,
+            "mean": 13.91,
+            "std": 11.34,
+            "min": 1.25,
+            "25%": 7.2,
+            "50%": 10.8,
+            "75%": 18.0,
+            "max": 260.0
+        },
+        "units": {
+            "count": 10194.0,
+            "mean": 3.79,
+            "std": 2.23,
+            "min": 1.0,
+            "25%": 2.0,
+            "50%": 3.0,
+            "75%": 5.0,
+            "max": 14.0
+        },
+        "gross_profit": {
+            "count": 10194.0,
+            "mean": 9.17,
+            "std": 6.64,
+            "min": 0.25,
+            "25%": 4.9,
+            "50%": 7.47,
+            "75%": 12.25,
+            "max": 130.0
+        },
+        "cost": {
+            "count": 10194.0,
+            "mean": 4.74,
+            "std": 5.06,
+            "min": 0.6,
+            "25%": 2.4,
+            "50%": 3.6,
+            "75%": 5.7,
+            "max": 130.0
+        }
+    }
+}

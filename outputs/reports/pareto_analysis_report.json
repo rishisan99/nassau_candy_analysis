@@ -1,0 +1,319 @@
+{
+    "product_pareto_profit": [
+        {
+            "Product Name": "Wonka Bar -Scrumdiddlyumptious",
+            "Total_Profit": 11350.0,
+            "Profit_%": 20.53,
+            "Cumulative_Profit_%": 20.53,
+            "Rank": 1
+        },
+        {
+            "Product Name": "Wonka Bar - Triple Dazzle Caramel",
+            "Total_Profit": 10897.6,
+            "Profit_%": 19.71,
+            "Cumulative_Profit_%": 40.24,
+            "Rank": 2
+        },
+        {
+            "Product Name": "Wonka Bar - Nutty Crunch Surprise",
+            "Total_Profit": 10311.09,
+            "Profit_%": 18.65,
+            "Cumulative_Profit_%": 58.89,
+            "Rank": 3
+        },
+        {
+            "Product Name": "Wonka Bar - Milk Chocolate",
+            "Total_Profit": 10062.59,
+            "Profit_%": 18.2,
+            "Cumulative_Profit_%": 77.08,
+            "Rank": 4
+        },
+        {
+            "Product Name": "Wonka Bar - Fudge Mallows",
+            "Total_Profit": 9732.0,
+            "Profit_%": 17.6,
+            "Cumulative_Profit_%": 94.69,
+            "Rank": 5
+        },
+        {
+            "Product Name": "Lickable Wallpaper",
+            "Total_Profit": 2480.0,
+            "Profit_%": 4.49,
+            "Cumulative_Profit_%": 99.17,
+            "Rank": 6
+        },
+        {
+            "Product Name": "Wonka Gum",
+            "Total_Profit": 170.95,
+            "Profit_%": 0.31,
+            "Cumulative_Profit_%": 99.48,
+            "Rank": 7
+        },
+        {
+            "Product Name": "Everlasting Gobstopper",
+            "Total_Profit": 104.0,
+            "Profit_%": 0.19,
+            "Cumulative_Profit_%": 99.67,
+            "Rank": 8
+        },
+        {
+            "Product Name": "Hair Toffee",
+            "Total_Profit": 59.5,
+            "Profit_%": 0.11,
+            "Cumulative_Profit_%": 99.78,
+            "Rank": 9
+        },
+        {
+            "Product Name": "Kazookles",
+            "Total_Profit": 47.5,
+            "Profit_%": 0.09,
+            "Cumulative_Profit_%": 99.86,
+            "Rank": 10
+        },
+        {
+            "Product Name": "Fizzy Lifting Drinks",
+            "Total_Profit": 27.0,
+            "Profit_%": 0.05,
+            "Cumulative_Profit_%": 99.91,
+            "Rank": 11
+        },
+        {
+            "Product Name": "SweeTARTS",
+            "Total_Profit": 21.7,
+            "Profit_%": 0.04,
+            "Cumulative_Profit_%": 99.95,
+            "Rank": 12
+        },
+        {
+            "Product Name": "Laffy Taffy",
+            "Total_Profit": 19.84,
+            "Profit_%": 0.04,
+            "Cumulative_Profit_%": 99.99,
+            "Rank": 13
+        },
+        {
+            "Product Name": "Fun Dip",
+            "Total_Profit": 4.8,
+            "Profit_%": 0.01,
+            "Cumulative_Profit_%": 99.99,
+            "Rank": 14
+        },
+        {
+            "Product Name": "Nerds",
+            "Total_Profit": 2.8,
+            "Profit_%": 0.01,
+            "Cumulative_Profit_%": 100.0,
+            "Rank": 15
+        }
+    ],
+    "product_pareto_revenue": [
+        {
+            "Product Name": "Wonka Bar - Triple Dazzle Caramel",
+            "Total_Revenue": 16680.0,
+            "Revenue_%": 19.9,
+            "Cumulative_Revenue_%": 19.9,
+            "Rank": 1
+        },
+        {
+            "Product Name": "Wonka Bar -Scrumdiddlyumptious",
+            "Total_Revenue": 16344.0,
+            "Revenue_%": 19.5,
+            "Cumulative_Revenue_%": 39.4,
+            "Rank": 2
+        },
+        {
+            "Product Name": "Wonka Bar - Milk Chocolate",
+            "Total_Revenue": 15499.25,
+            "Revenue_%": 18.49,
+            "Cumulative_Revenue_%": 57.88,
+            "Rank": 3
+        },
+        {
+            "Product Name": "Wonka Bar - Fudge Mallows",
+            "Total_Revenue": 14598.0,
+            "Revenue_%": 17.41,
+            "Cumulative_Revenue_%": 75.3,
+            "Rank": 4
+        },
+        {
+            "Product Name": "Wonka Bar - Nutty Crunch Surprise",
+            "Total_Revenue": 14452.09,
+            "Revenue_%": 17.24,
+            "Cumulative_Revenue_%": 92.54,
+            "Rank": 5
+        },
+        {
+            "Product Name": "Lickable Wallpaper",
+            "Total_Revenue": 4960.0,
+            "Revenue_%": 5.92,
+            "Cumulative_Revenue_%": 98.46,
+            "Rank": 6
+        },
+        {
+            "Product Name": "Kazookles",
+            "Total_Revenue": 617.5,
+            "Revenue_%": 0.74,
+            "Cumulative_Revenue_%": 99.19,
+            "Rank": 7
+        },
+        {
+            "Product Name": "Wonka Gum",
+            "Total_Revenue": 328.75,
+            "Revenue_%": 0.39,
+            "Cumulative_Revenue_%": 99.59,
+            "Rank": 8
+        },
+        {
+            "Product Name": "Everlasting Gobstopper",
+            "Total_Revenue": 130.0,
+            "Revenue_%": 0.16,
+            "Cumulative_Revenue_%": 99.74,
+            "Rank": 9
+        },
+        {
+            "Product Name": "Hair Toffee",
+            "Total_Revenue": 76.5,
+            "Revenue_%": 0.09,
+            "Cumulative_Revenue_%": 99.83,
+            "Rank": 10
+        },
+        {
+            "Product Name": "SweeTARTS",
+            "Total_Revenue": 46.5,
+            "Revenue_%": 0.06,
+            "Cumulative_Revenue_%": 99.89,
+            "Rank": 11
+        },
+        {
+            "Product Name": "Fizzy Lifting Drinks",
+            "Total_Revenue": 45.0,
+            "Revenue_%": 0.05,
+            "Cumulative_Revenue_%": 99.94,
+            "Rank": 12
+        },
+        {
+            "Product Name": "Laffy Taffy",
+            "Total_Revenue": 31.84,
+            "Revenue_%": 0.04,
+            "Cumulative_Revenue_%": 99.98,
+            "Rank": 13
+        },
+        {
+            "Product Name": "Fun Dip",
+            "Total_Revenue": 12.0,
+            "Revenue_%": 0.01,
+            "Cumulative_Revenue_%": 99.99,
+            "Rank": 14
+        },
+        {
+            "Product Name": "Nerds",
+            "Total_Revenue": 6.0,
+            "Revenue_%": 0.01,
+            "Cumulative_Revenue_%": 100.0,
+            "Rank": 15
+        }
+    ],
+    "division_pareto": [
+        {
+            "Division": "Chocolate",
+            "Total_Profit": 52353.28,
+            "Profit_%": 94.69,
+            "Cumulative_Profit_%": 94.69
+        },
+        {
+            "Division": "Other",
+            "Total_Profit": 2698.45,
+            "Profit_%": 4.88,
+            "Cumulative_Profit_%": 99.57
+        },
+        {
+            "Division": "Sugar",
+            "Total_Profit": 239.64,
+            "Profit_%": 0.43,
+            "Cumulative_Profit_%": 100.0
+        }
+    ],
+    "factory_pareto": [
+        {
+            "Factory": "Lot's O' Nuts",
+            "Total_Profit": 31393.09,
+            "Profit_%": 56.78,
+            "Cumulative_Profit_%": 56.78
+        },
+        {
+            "Factory": "Wicked Choccy's",
+            "Total_Profit": 20960.19,
+            "Profit_%": 37.91,
+            "Cumulative_Profit_%": 94.69
+        },
+        {
+            "Factory": "Secret Factory",
+            "Total_Profit": 2754.95,
+            "Profit_%": 4.98,
+            "Cumulative_Profit_%": 99.67
+        },
+        {
+            "Factory": "The Other Factory",
+            "Total_Profit": 107.0,
+            "Profit_%": 0.19,
+            "Cumulative_Profit_%": 99.86
+        },
+        {
+            "Factory": "Sugar Shack",
+            "Total_Profit": 76.14,
+            "Profit_%": 0.14,
+            "Cumulative_Profit_%": 100.0
+        }
+    ],
+    "region_pareto": [
+        {
+            "Region": "Pacific",
+            "Total_Profit": 18122.34,
+            "Profit_%": 32.78,
+            "Cumulative_Profit_%": 32.78
+        },
+        {
+            "Region": "Atlantic",
+            "Total_Profit": 15901.34,
+            "Profit_%": 28.76,
+            "Cumulative_Profit_%": 61.54
+        },
+        {
+            "Region": "Interior",
+            "Total_Profit": 12867.99,
+            "Profit_%": 23.27,
+            "Cumulative_Profit_%": 84.81
+        },
+        {
+            "Region": "Gulf",
+            "Total_Profit": 8399.7,
+            "Profit_%": 15.19,
+            "Cumulative_Profit_%": 100.0
+        }
+    ],
+    "80_percent_threshold": {
+        "products_driving_80pct_profit": [
+            "Wonka Bar -Scrumdiddlyumptious",
+            "Wonka Bar - Triple Dazzle Caramel",
+            "Wonka Bar - Nutty Crunch Surprise",
+            "Wonka Bar - Milk Chocolate",
+            "Wonka Bar - Fudge Mallows"
+        ],
+        "products_driving_80pct_revenue": [
+            "Wonka Bar - Triple Dazzle Caramel",
+            "Wonka Bar -Scrumdiddlyumptious",
+            "Wonka Bar - Milk Chocolate",
+            "Wonka Bar - Fudge Mallows",
+            "Wonka Bar - Nutty Crunch Surprise"
+        ]
+    },
+    "dependency_risk": {
+        "top_1_product_profit_share_%": 20.53,
+        "top_3_products_profit_share_%": 58.89,
+        "top_5_products_profit_share_%": 94.69,
+        "bottom_10_products_share_%": 5.34,
+        "top_division_profit_share_%": 94.69,
+        "top_factory_profit_share_%": 56.78,
+        "risk_level": "CRITICAL"
+    }
+}

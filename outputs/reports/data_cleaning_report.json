@@ -1,0 +1,52 @@
+{
+    "snapshot_before": {
+        "total_rows": 10194,
+        "null_values": 0,
+        "duplicate_rows": 0,
+        "zero_sales_rows": 0,
+        "negative_profit_rows": 0,
+        "zero_units_rows": 0,
+        "negative_cost_rows": 0
+    },
+    "snapshot_after": {
+        "total_rows": 6013,
+        "null_values": 0,
+        "duplicate_rows": 0,
+        "zero_sales_rows": 0,
+        "negative_profit_rows": 0,
+        "zero_units_rows": 0
+    },
+    "rows_removed_total": 4181,
+    "cleaning_log": {
+        "issues_found": {
+            "null_values": "None found",
+            "duplicate_rows": "None found",
+            "zero_or_negative_sales": "None found",
+            "negative_profit_rows": "None found",
+            "zero_unit_rows": "None found",
+            "ship_date_anomaly": "Ship dates range from 2026-06-30 to 2030-06-28 \u2014 postdates every order (2024-01-02 to 2025-12-31)",
+            "multi_year_data": "Raw data spans years 2024-2025: {2024: 4181, 2025: 6013}"
+        },
+        "actions_taken": {
+            "null_values": "No action needed",
+            "duplicate_rows": "No action needed",
+            "zero_or_negative_sales": "No action needed",
+            "negative_profit_rows": "No action needed",
+            "zero_unit_rows": "No action needed",
+            "ship_date_anomaly": "Ship Date column retained in dataset but excluded from all time-based analysis. Only Order Date will be used.",
+            "scope_to_fy2025": "Filtered to Order Date year 2025 only \u2014 4181 rows from 2024 excluded. Keeps monthly/quarterly trend analysis a clean single-year read instead of blending two years under the same calendar month."
+        },
+        "rows_removed": {
+            "duplicates": 0,
+            "zero_or_negative_sales": 0,
+            "zero_units": 0,
+            "out_of_scope_year": 4181
+        },
+        "columns_dropped": {
+            "Ship Date": "Excluded from analysis \u2014 dates are anomalous"
+        },
+        "notes": {
+            "factory_mapping": "Factory column added from project brief. Unmapped products: 0"
+        }
+    }
+}
