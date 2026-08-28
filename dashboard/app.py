@@ -10,7 +10,7 @@ from views.pareto_analysis import render as render_pareto
 from views.factory_analysis import render as render_factory
 from views.regional_analysis import render as render_regional
 
-# page config
+# set page config
 st.set_page_config(
     page_title="Nassau Candy Distributor",
     page_icon="🍬",
